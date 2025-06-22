@@ -20,7 +20,7 @@ A simple command-line interface (CLI) application to track and manage your tasks
 ### Setup
 1. Clone this repository:
 
-git clone https://github.com/jscode-1302/task-tracker-cli.git
+git clone https://github.com/jscode-1302/task-tracker.git
 cd task-tracker-cli
 
 2. Run the application:
