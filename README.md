@@ -180,3 +180,4 @@ This project was built as part of my journey learning Python and backend develop
 - CLI application development
 
 **Project inspired by:** roadmap.sh Task Tracker CLI Project
+Project URL: https://roadmap.sh/projects/task-tracker
