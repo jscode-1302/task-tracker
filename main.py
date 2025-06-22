@@ -5,7 +5,7 @@ import re
 def main():
     print("Welcome!\nEnter 'help' to see the commands")
     
-    commands_allowed = ['dict','help', 'add', 'update', 'delete', 'mark-in-progress', 'mark-done', 'list']
+    commands_allowed = ['help', 'add', 'update', 'delete', 'mark-in-progress', 'mark-done', 'list']
     
     tm = TaskManager()
     
