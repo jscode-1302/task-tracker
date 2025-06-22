@@ -13,7 +13,7 @@ def command_help():
     print("list 'status'                    → List tasks by status (e.g. 'done', 'in-progress')")
 
 def load_data():
-    if Path(file).exists: 
+    if Path(file).exists(): 
         try:
             with open(file, 'r') as f:
                 existing_tasks = json.load(f)
